@@ -4,4 +4,4 @@
 
 💞️Estou procurando colaborar no Front-end
 
-📫How to reach me [LinkedIn](https://www.linkedin.com/in/bruno-monteiro-4b07a1219/) 
+📫 Como chegar até a mim [LinkedIn](https://www.linkedin.com/in/bruno-monteiro-4b07a1219/) 
