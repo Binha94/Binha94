@@ -1,5 +1,3 @@
-Binha94/LEIA -ME .md
-
 👋Olá, sou Bruno Monteiro
 
 👀Estou interessado em HTML, CSS, JavaScript, React, TypeScript, Vue.js
